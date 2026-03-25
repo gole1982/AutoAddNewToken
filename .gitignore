@@ -111,6 +111,10 @@
 *.pem
 *.key
 
+# Automation script
+.env
+logs/
+
 # Temporary files
 *.tmp
 *.temp
